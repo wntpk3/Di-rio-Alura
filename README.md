@@ -7,4 +7,4 @@
 
 30/10/2023 - Hoje eu finalizei o 3° capiítulo do curso e assisti até a 4° aula do capítulo: Iterando em listas
 
-08/11/2023 - H
+08/11/2023 - Hoje eu assisti da aula 4 até a aula 13 do capítulo: Iterando em listas
